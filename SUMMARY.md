@@ -5,6 +5,7 @@
 ## LOD
 
 * [Node/Tile/Chunck](lod/node-tile-chunck/README.md)
+  * [Crack](lod/node-tile-chunck/crack.md)
   * [Memory Usage](lod/node-tile-chunck/memory-usage.md)
   * [Data](lod/node-tile-chunck/data.md)
 
@@ -18,6 +19,7 @@
   * [ECEF](planet/coordinate-systems/ecef.md)
   * [Web Mercator](planet/coordinate-systems/web-mercator.md)
 * [Data Structure](planet/data-structure/README.md)
+  * [Sourth/North pole cap](planet/data-structure/sourth-north-pole-cap.md)
   * [Map Tile](planet/data-structure/map-tile.md)
 
 ## Graphics
