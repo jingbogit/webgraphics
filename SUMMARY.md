@@ -26,6 +26,7 @@
 
 * [instanced geometry](graphics/instanced-geometry.md)
 * [Mipmap](graphics/mipmap.md)
+* [Compressed Texture](graphics/compressed-texture.md)
 * [Discard Fragment](graphics/discard-fragment.md)
 
 ## OS
