@@ -38,7 +38,10 @@
 
 ## web
 
-* [Js Performance](web/js-performance.md)
+* [Languages](web/languages/README.md)
+  * [Js Performance](web/languages/js-performance.md)
+  * [Typescript](web/languages/typescript/README.md)
+    * [Pitfalls](web/languages/typescript/pitfalls.md)
 * [Web Worker](web/web-worker/README.md)
   * [Transferable objects](web/web-worker/transferable-objects.md)
 
