@@ -38,6 +38,7 @@
 
 ## web
 
+* [Js Performance](web/js-performance.md)
 * [Web Worker](web/web-worker/README.md)
   * [Transferable objects](web/web-worker/transferable-objects.md)
 
