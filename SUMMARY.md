@@ -20,8 +20,11 @@
   * [ECEF](planet/coordinate-systems/ecef.md)
   * [Web Mercator](planet/coordinate-systems/web-mercator.md)
 * [Data Structure](planet/data-structure/README.md)
+  * [Quadtree](planet/data-structure/quadtree.md)
   * [Sourth/North pole cap](planet/data-structure/sourth-north-pole-cap.md)
   * [Map Tile](planet/data-structure/map-tile.md)
+* [Terrain](planet/terrain/README.md)
+  * [GDC2012 Terrain in Battlefield 3](planet/terrain/gdc2012-terrain-in-battlefield-3.md)
 
 ## Graphics
 
@@ -46,4 +49,5 @@
     * [Pitfalls](web/languages/typescript/pitfalls.md)
 * [Web Worker](web/web-worker/README.md)
   * [Transferable objects](web/web-worker/transferable-objects.md)
+* [WebGL](web/webgl.md)
 

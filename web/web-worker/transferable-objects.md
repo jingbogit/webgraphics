@@ -35,5 +35,5 @@ function ( imageBitmap ) {
 
 
 
-![compability](../../.gitbook/assets/image.png)
+![compability](../../.gitbook/assets/image%20%2818%29.png)
 

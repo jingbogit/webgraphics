@@ -12,5 +12,5 @@ The Z axis goes through north pole.
 
 the X axis goes through \(longitude:0, latitude:0\)
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 

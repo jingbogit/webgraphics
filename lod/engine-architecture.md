@@ -8,5 +8,5 @@ It designed to stream massive heterogeneous 3D geospatial datasets.
 
 
 
-![lod engine architect](../.gitbook/assets/image%20%284%29.png)
+![lod engine architect](../.gitbook/assets/image%20%2823%29.png)
 
