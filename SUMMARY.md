@@ -21,6 +21,7 @@
   * [Web Mercator](planet/coordinate-systems/web-mercator.md)
 * [Data Structure](planet/data-structure/README.md)
   * [Quadtree](planet/data-structure/quadtree.md)
+  * [Branch-on-need](planet/data-structure/branch-on-need.md)
   * [Sourth/North pole cap](planet/data-structure/sourth-north-pole-cap.md)
   * [Map Tile](planet/data-structure/map-tile.md)
 * [Terrain](planet/terrain/README.md)
@@ -32,6 +33,7 @@
 * [Mipmap](graphics/mipmap.md)
 * [Compressed Texture](graphics/compressed-texture.md)
 * [Discard Fragment](graphics/discard-fragment.md)
+* [Marching Cubes](graphics/marching-cubes.md)
 
 ## OS
 
